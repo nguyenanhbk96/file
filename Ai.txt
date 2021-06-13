@@ -4,3 +4,4 @@ https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-3-4a
 https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-4-8032bec2aa3d
 https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-5-8df72392ec10
 https://medium.com/ai-in-plain-english/23-data-science-techniques-you-should-know-61bc2c9d1b3a
+https://github.com/mehmet-mert/FrameRecorder
